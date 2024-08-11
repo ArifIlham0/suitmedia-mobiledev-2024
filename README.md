@@ -1,8 +1,23 @@
 # suitmedia_mobiledev_2024
 
-A new Flutter project.
+Palindrome App
 
 ## Getting Started
+
+```sh
+git clone https://github.com/ArifIlham0/suitmedia-mobiledev-2024.git
+```
+```sh
+git add *
+```
+Open main.dart and
+```sh
+CTRL + F5
+```
+Or
+```sh
+flutter run
+```
 
 This project is a starting point for a Flutter application.
 
